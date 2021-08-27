@@ -128,3 +128,7 @@ peopleUl.append(listItem);
 
 peopleDiv.append(peopleUl);
 
+//=========== Salmon cookies project rework ==================== //
+
+
+
